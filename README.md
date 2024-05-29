@@ -1,10 +1,10 @@
 # Sorter-of-files
-<h1>Описание (Describe)</h1>
+<h2>Описание (Describe)</h2>
 <b>En</b>
 <p>This is program can be sorted files in specified folder by specified condition. For select a folder and specified her sorted, you can use a GUI.</p>
 <b>Ру</b>
 <p>Эта программа позволяет сортировать файлы в папке по указанному условию. Для выбора папки и условий сортировки, существует графический интерфейс.</p>
-<h1>Доступные виды сортировки (Available type of sorting) </h1>
+<h2>Доступные виды сортировки (Available type of sorting) </h2>
   <li>По дате/by date</li>
   <li>По типу/by types</li>
   <li>По весу файла/by weight of files</li>
